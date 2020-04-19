@@ -1,5 +1,7 @@
-
-#frist.py
- is python with sqlite3
-#app1.py
- is a simple gui with table push button ,table and some different events
+# first.py
+it is a program with sqlite3
+# app.py 
+ it is a gui program with pyqt5 which has
+- tables
+- pushbuttons 
+- lables
